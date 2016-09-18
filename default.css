@@ -1,0 +1,13 @@
+.img{
+	float: left;
+	border-top: 3px solid black;
+	padding: 20px;
+	margin: 20px;
+}
+.img img{
+	width: 250px;
+}
+
+.clear {
+	clear:both;
+}
